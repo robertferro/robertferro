@@ -1,10 +1,12 @@
 ### Robert Ferro - [Data Scientist] 👋
 
-## I am an Electrical Engineer and data scientist who loves leveraging data-driven solutions that make an impact on business and society!
+## Como engenheiro eletricista, atuando na elaboração de projetos de subestação, SPDA, cabeamento estruturado, inspeções em subestações, laudos, orçamento.
 
-- 💻 I’m currently working as Eletrical Engineer.
-- 📈 I’m constantly learning and Improving my skills 🤣
-- 📊 I’m looking to collaborate with other Data Scientists and developers 
+### Cientista de Dados, desenvolvendo projetos sempre trabalhando com dados reais e conseguindo soluções que causam impacto nos negócios e na sociedade.
+
+
+- 💻 Engenheiro Eletricista.
+- 📈 Sempre buscando melhorar e adquirir mais conhecimento 🤣
 
 ### Connect with me:
 
