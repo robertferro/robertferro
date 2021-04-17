@@ -6,7 +6,8 @@
 
 
 - 💻 Engenheiro Eletricista.
-- 📈 Sempre buscando melhorar e adquirir mais conhecimento 🤣
+- 📈 Sempre buscando melhorar e adquirir mais conhecimento.
+
 
 ### Connect with me:
 
