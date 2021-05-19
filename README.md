@@ -1,11 +1,11 @@
-### Robert Ferro - [Data Scientist] 👋
+### Robert Ferro 
 
 ### Como engenheiro eletricista, atuando na elaboração de projetos de subestação, SPDA, cabeamento estruturado, inspeções em subestações, laudos, orçamento.
 
 ### Como Cientista de Dados, desenvolvendo projetos sempre trabalhando com dados reais e conseguindo soluções que causam impacto nos negócios e na sociedade.
 
 
-- 💻 Engenheiro Eletricista.
+- 💻 Cientista de dados / Engenheiro Eletricista.
 - 📈 Sempre buscando melhorar e adquirir mais conhecimento.
 
 
