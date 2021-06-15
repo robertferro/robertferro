@@ -1,12 +1,11 @@
 ### Robert Ferro 
 
-### Como engenheiro eletricista, atuando na elaboração de projetos de subestação, SPDA, cabeamento estruturado, inspeções em subestações, laudos, orçamento.
 
-### Como Cientista de Dados, desenvolvendo projetos sempre trabalhando com dados reais e conseguindo soluções que causam impacto nos negócios e na sociedade.
+### Sou engenheiro eletricista, tenho 28 anos e trabalho há 3 anos desenvolvendo projetos nessa área.  Na minha formação como Cientista de Dados conclui alguns cursos online  que me deram  conhecimento para solucionar problemas e desenvolver alguns projetos na área, como previsão de faturamento e análise de risco de crédito.
 
 
 - 💻 Cientista de dados / Engenheiro Eletricista.
-- 📈 Sempre buscando melhorar e adquirir mais conhecimento.
+- 📈 Em constante evolução, focado em trazer soluções que causam impacto nos negócios e na sociedade
 
 
 ### Connect with me:
