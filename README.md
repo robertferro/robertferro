@@ -1,11 +1,12 @@
 ### Robert Ferro 
 
 
-### Sou engenheiro eletricista, tenho 28 anos e trabalho há 3 anos desenvolvendo projetos nessa área.  Na minha formação como Cientista de Dados conclui alguns cursos online  que me deram  conhecimento para solucionar problemas e desenvolver alguns projetos na área, como previsão de faturamento e análise de risco de crédito.
+- 💻 Cientista de dados | Analista de Dados | Machine Learning.
 
+Graduado em Engenharia Elétrica, atualmente fazendo transição para uma carreira com foco em dados.
 
-- 💻 Cientista de dados / Engenheiro Eletricista.
-- 📈 Em constante evolução, focado em trazer soluções que causam impacto nos negócios e na sociedade
+Conhecimento em Python, SQL, Power BI e Excel, conclui com êxito o Intensivo de Data Science Awari, formação de Cientista de Dados da Alura e alguns outros cursos que me deram suporte para elaborar diversos projetos que trazem desde análises, até desenvolvimento de modelos preditivos.
+
 
 
 ### Connect with me:
