@@ -1,7 +1,7 @@
 ### Robert Ferro 
 
 
-- 💻 Cientista de dados | Analista de Dados | Machine Learning.
+- 💻 Engenheiro de dados | Spark | Python | SQL | Databricks | Azure | Machine Learning.
 
 Graduado em engenharia elétrica em 2018, venho em um processo de transição de carreira para a área de dados desde 2021, com foco em solucionar problemas por meio dos dados e desenvolvendo projetos usando linguagens como Python, SQL e Spark. 
 
