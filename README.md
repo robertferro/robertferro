@@ -3,9 +3,13 @@
 
 - 💻 Cientista de dados | Analista de Dados | Machine Learning.
 
-Graduado em Engenharia Elétrica, atualmente fazendo transição para uma carreira com foco em dados.
+Graduado em engenharia elétrica em 2018, venho em um processo de transição de carreira para a área de dados desde 2021, com foco em solucionar problemas por meio dos dados e desenvolvendo projetos usando linguagens como Python, SQL e Spark. 
 
-Conhecimento em Python, SQL, Power BI e Excel, conclui com êxito o Intensivo de Data Science Awari, formação de Cientista de Dados da Alura e alguns outros cursos que me deram suporte para elaborar diversos projetos que trazem desde análises, até desenvolvimento de modelos preditivos.
+Conclui com êxito o Intensivo de Data Science  Awari, formação de Cientista de Dados da Alura e alguns outros cursos que me deram suporte para  elaborar diversos projetos que trazem desde análises de dados , ETL, até desenvolvimento de modelos preditivos usando Machine Learning.
+
+Atualmente venho desenvolvendo projetos com foco em engenharia de dados, utilizando ambiente em nuvem e trabalhando na  automação de processos de ingestão, tratamento e armazenamento de dados. 
+
+Tenho habilidades com Azure Data Factory, Databricks, Azure SQL, Power Automate, Power Apps e Power BI.
 
 
 
